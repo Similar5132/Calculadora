@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CalculadoraE4</string>
+    <string name="ValorUno">Primer Valor</string>
+    <string name="ValorDos">Segundo Valor</string>
+    <string name="tvResultado">Resultado:</string>
+    <string name="check1">Sumar</string>
+    <string name="check2">Restar</string>
+    <string name="check3">Multiplicar</string>
+    <string name="check4">Dividir</string>
+    <string name="button">Calcular</string>
+
+</resources>
